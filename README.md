@@ -2,15 +2,15 @@
 
 
 <p align="center">
-<br><b> 𝗞𝗛𝗨𝗦𝗛𝗜𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖
+<br><b> ALIHA𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/BRANDED_LINK"><img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg"></a></p>
+<p align="center"><a href="https://t.me/earn_money_easily_0"><img src="[https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg](https://telegra.ph/file/1859f85e33a6e1708f91e.jpg)"></a></p>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Khushi+play+music+on+telegram+voice+chat+feature;Managed+by+Branded+King%E2%9D%A4%EF%B8%8F"> 
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Aliha+play+music+on+telegram+voice+chat+feature;Managed+by+FIRE+King%E2%9D%A4%EF%B8%8F"> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
