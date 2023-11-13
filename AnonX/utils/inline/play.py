@@ -68,7 +68,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/earn_money_by_vip"
+                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/tc_lottery_hack_mod_pridction"
             )
         ],
     ]
