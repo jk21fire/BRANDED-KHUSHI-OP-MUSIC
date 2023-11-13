@@ -24,7 +24,7 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝗞𝗛𝗨𝗦𝗛𝗜𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Jdjsos6wgjebot")
 
 OWNER_ID = list(
     map(int, getenv("OWNER_ID", "6329724168").split())
