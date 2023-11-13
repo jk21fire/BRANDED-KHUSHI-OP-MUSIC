@@ -27,7 +27,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝗞𝗛𝗨𝗦𝗛𝗜𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6258877205").split())
+    map(int, getenv("OWNER_ID", "6329724168").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -36,16 +36,16 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/WCGKING/BRANDED-KHUSHI-OP-MUSIC",
+    "https://github.com/jk21fire/BRANDED-KHUSHI-OP-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/BRANDRD_BOT")
+    "SUPPORT_CHANNEL", "https://t.me/tc_lottery_hack_mod_pridction")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/BRANDED_WORLD")
+    "SUPPORT_GROUP", "https://t.me/earn_money_by_vip")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -103,11 +103,11 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/ebf34649780915d5951fe.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/706f7c42a68f3815fab73.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/b5a457725d59cc7765dde.jpg",
+    "https://telegra.ph/file/1859f85e33a6e1708f91e.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
